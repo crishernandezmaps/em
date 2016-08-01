@@ -1,11 +1,9 @@
 # Demostración Text Mining "El Mostrador"
 
 ## Presentación
-El siguiente documento muestra el potencial del análisis de texto o *text mining* realizado en base a todas las noticias escritas en la sección 'País' en el diario El Mostrador entre los años 2008 y 2016. 
+El siguiente documento muestra el potencial del análisis de texto o *text mining* para la extracción de datos desde fuentes no estructuradas como artículos, blogs, papers, redes sociales, u otros documentos, que se encuentran en gran cantidad en Internet, son de libre disposición y los encontramos en cualquier industria.
 
-Análisis de las palabras más usadas en País entre los años seleccionados.
-
-Para llevar a cabo este análisis se realizaron los siguiente pasos metodológicos:
+En específico, el análisis realizado toma como base a todas las noticias escritas en la sección 'País' en el diario El Mostrador entre los años 2008 y 2016. Para llevar a cabo este análisis se realizaron los siguiente pasos metodológicos:
 
 ### 1.- Obtención de los datos
 Para la obtención de los datos se utilizó el programa computacional **WGET**, que a través de líneas de código permite la extracción de contenido desde sitios web. En específico, se descargaron todas las entradas escritas en El Mostrador entre el año 2008 y 2016 en formato HTML. Posteriormente se separan las columnas escritas en la sección **País**, obteniendo 2000 archivos html. El comando utilizado en Wget fue el siguiente:
