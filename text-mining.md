@@ -73,7 +73,9 @@ Las 10 palabras más escritas en El Mostrador en su sección País en orden ascende
 
 Finalmente se imprime un documento con las frecuencias totales detectadas en el corpus en formato Json (words.json), el cual es luego transformado para su lectura a formato CSV (words.csv).
 
+---
 
+NOTA: adicionalmente puedes visualizar todos los artículos con fecha y autor en el archivo 'all-texts.txt'.
 
 
 
