@@ -57,7 +57,7 @@ Se realiza un análisis del corpus en tanto la Frecuencia de Palabras referido a 
 
 Las palabras y sus frecuencias (words.csv) son representadas en una nube de palabras:
 
-![](![](https://raw.githubusercontent.com/crishernandezmaps/blog/gh-pages/img/cloud.png)
+![](https://raw.githubusercontent.com/crishernandezmaps/blog/gh-pages/img/cloud.png)
 
 Las 10 palabras más escritas en El Mostrador en su sección País en orden ascendente, son:
 
