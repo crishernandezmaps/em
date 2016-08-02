@@ -19,12 +19,35 @@ El método para la extracción de palabras se basó en la limpieza de los textos
 ## Resultados
 Teniendo en cuenta que el Gobierno de Lagos duró 6 años, mientras que el de Piñera 4 años, y que el último año de presidencia no se realiza discurso, ya que lo realiza quien es será el nuevo(a) Presidente, se obtuvo lo siguiente:
 
+### Ricardo Lagos
+Los conceptos más relevantes mencionados por Lagos en todos sus mensajes presidenciales del 21 de Mayo, son:
+
 ![Ricardo Lagos](https://github.com/crishernandezmaps/em/blob/master/lptmviz/Vizs/Lagos.png)
 
+'Mundo', 'Reforma', 'Educación', 'Desarrollo', 'Crecimiento', 'Salud' y 'Gobierno' son los conceptos que acaparan los seis años de Gobierno de Lagos. 
+
+Probablemente haciéndole honor a su slogan "Crecer con Igualdad" los conceptos de 'Desarrollo' y 'Crecimiento' tienen mucha relevancia, al igual que la salida de Chile a los mercados extranjeros durante su mandato ('Mundo'), con la firma de tratados comerciales con diversos países y coglomerados. 
+
+En cuanto al concepto 'Reforma' es probable que mencione las reformas constitucionales realizadas en su período.
+
+Otros conceptos interesantes de analizar podrían ser 'Futuro', 'Jóvenes', 'Internet' y 'Becas'.
+
+### Sebastián Piñera
+Los conceptos durante los cuatro años de Gobierno de Piñera, son:
 
 ![Sebastián Piñera](https://github.com/crishernandezmaps/em/blob/master/lptmviz/Vizs/Pi%C3%B1era.png)
 
+Conceptos como 'Gobierno', 'Proyecto', 'Ley', 'Educación', 'Calidad'. Pueden ser identificados con las movilizaciones estudiantiles que marcaron su período. 
 
+Cabe mencionar que en total son menos los conceptos que utiliza Piñera en relación a Lagos. Puede ser causado por el menor tiempo de su período, o quizá por otro lado por lo pragmático de sus discursos. Lagos tiende a utilizar un lenguaje más florido.
+
+Otros conceptos, derivados de las mala llamadas discusiones valóricas, como el matrimonio de personas del mismo sexo o el aborto, como lo son los conceptos de 'vida', 'sociedad', 'familias'.
+
+## Conclusión
+Del análisis de la trayectoria de los mensajes presidenciales de Lagos y Piñera se desprende una imagen del momento que le tocó vivir a cada Presidente, los acentos que le imprimieron a sus Gobiernos y el estilo de cada cual. Mientras Lagos tuvo un escenario propicio de reformas, acuerdos internacionales y de mantener el slogan de su Gobierno; Piñera por otro lado tuvo que afrontar un terremoto (no mencionado como un concepto relevante en sus mensajes, tampoco el de 'Reconstrucción'), y marchas estudiantiles, que claramente mercaron su Gobierno ('Educación', 'Calidad', 'Reforma').
+
+## Futuros Análisis
+Resulta interesante evaluar la evolución del discurso de los ahora pre-pre candidatos presidenciales. Esto es posible obteniendo dichos textos de la prensa. Evaluar los conceptos en los cuales van poníendo los acentos cada candidato, podría darnos luces de sus proyectos futuros, y cruzados dichos conceptos con, por ejemplo, aprobación de leyes al respecto o creación de programas, nos podrían dar a conocer la distancia que llamamos 'del dicho al hecho', o sea, si realmente ponen las fichas en lo que dicen, o se queda como un texto o recorte de prensa que personas como yo se dan el tiempo de analizar. 
 
 
 
