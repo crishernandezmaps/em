@@ -1,5 +1,3 @@
-# Los temas de los Gobiernos de Lagos y Piñera
-
 ## Presentación
 Dos de los pre-pre-candidatos presidenciales más fuertes para la próxima elección presidencial en Chile, son sin duda los ex presidente Lagos y Piñera, quienes han acaparado la prensa política durante los últimos meses.
 
