@@ -19,7 +19,10 @@ El método para la extracción de palabras se basó en la limpieza de los textos
 ## Resultados
 Teniendo en cuenta que el Gobierno de Lagos duró 6 años, mientras que el de Piñera 4 años, y que el último año de presidencia no se realiza discurso, ya que lo realiza quien es será el nuevo(a) Presidente, se obtuvo lo siguiente:
 
+![Ricardo Lagos](https://github.com/crishernandezmaps/em/blob/master/lptmviz/Vizs/Lagos.png)
 
+
+![Sebastián Piñera](https://github.com/crishernandezmaps/em/blob/master/lptmviz/Vizs/Pi%C3%B1era.png)
 
 
 
